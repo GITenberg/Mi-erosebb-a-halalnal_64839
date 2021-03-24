@@ -1,0 +1,29 @@
+_repo: Mi-erosebb-a-halalnal_64839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gárdonyi, Géza
+    aliases:
+    - Zigler, Géza
+    - Gardonyi, Geza
+    - Gardoni, Gezah
+    - Гардони, Геза
+    - Gardoni, Geza
+    birthdate: 1863
+    deathdate: 1922
+    gutenberg_agent_id: '41300'
+    url: http://www.gutenberg.org/2009/agents/41300
+    wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1rdonyi_G%C3%A9za
+description: ''
+gutenberg_issued: '2021-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64839'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mi erosebb a halálnál?
+url: http://www.gutenberg.org/ebooks/64839
